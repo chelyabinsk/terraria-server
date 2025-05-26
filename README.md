@@ -31,7 +31,7 @@ It's designed to be secure, lightweight, and easy to use for hosting a private w
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/yourusername/terraria-server.git
+git clone https://github.com/chelyabinsk/terraria-server.git
 cd terraria-server
 ```
 
