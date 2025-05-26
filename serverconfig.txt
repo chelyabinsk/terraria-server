@@ -1,0 +1,6 @@
+world=/home/terraria/.local/share/Terraria/Worlds/someworld.wld
+difficulty=0
+port=7777
+maxplayers=2
+password=somesecurepassword
+
