@@ -5,7 +5,6 @@ sudo docker build -t terraria-server .
 sudo docker run -it \
   --read-only \
   --cap-drop=ALL \
-  --cap-add=NET_BIND_SERVICE \
   --security-opt no-new-privileges:true \
   --rm \
   -p 7777:7777 \
